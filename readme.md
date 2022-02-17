@@ -23,6 +23,6 @@ Kubernetes Application Setup
 
 
 Push to git
-- git commit -m "What I added"
 - git add .
+- git commit -m "What I added"
 - git push origin master
