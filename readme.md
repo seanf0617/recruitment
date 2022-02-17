@@ -20,3 +20,7 @@ Docker Application Setup
 
 Kubernetes Application Setup
 - 
+
+
+Push to git
+- git push origin master
